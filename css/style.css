@@ -1,0 +1,60 @@
+body{
+	background-color: 	#000;
+	text-align: center ;
+}
+
+h1 {
+	color: #00BFFF;
+	font-size: 50px;
+ 
+}
+
+h2{
+	text-decoration: underline;
+	font-size: 50px;
+	color: #00008B ;
+}
+
+div {
+	vertical-align: top ;
+	display: inline-block; 
+	width: 400px;
+	height: 600px;
+	text-align: center ;
+}
+
+img {
+	margin-top: 40px;
+	margin-bottom: 40px;
+    width: 350px;
+    height: 350px;
+    box-shadow: 0 0px 30px rgb(3 144 255);
+ }  
+ span{
+  color:  #fff ;
+
+ }
+
+ h3{
+	text-decoration: underline;
+	font-size: 30px;
+	color: #00BFFF;
+}
+.f{
+	color: #00BFFF;
+	font-size: 30px;
+}
+ 
+ .menu{
+   background-color: #cccc;
+   width: 15%;
+   height: 100%;
+   position: fixed;
+   padding-top: 100px;
+}
+
+.menu a{
+	display: block;
+	color: #000;
+	text-align: center; 
+}
